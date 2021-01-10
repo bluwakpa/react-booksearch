@@ -42,3 +42,8 @@ function App() {
             } 
           </ul>
         </section>
+        </main>
+  );
+}
+
+export default App;
